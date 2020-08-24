@@ -1,0 +1,17 @@
+.headerTitle{
+width: 20%;
+}
+.headerContent{
+width: 80%;
+}
+
+.btn{
+    border:none;
+    background-color: blue;
+    color: white;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    padding: 15px 32px;
+    text-align: center;
+}
